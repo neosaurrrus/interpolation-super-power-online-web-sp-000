@@ -7,6 +7,6 @@ puts "G: #{green},"
 puts "B: #{blue},"
 puts "I: #{indigo},"
 puts "V: #{violet},"
-
+end
 
   # Write your #display_rainbow method here
